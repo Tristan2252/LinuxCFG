@@ -1,4 +1,4 @@
-# Linux
+# LinuxCFG
 
 This program is designed help execute common tasks used after installing a
 new Debian OS such as Ubuntu.
