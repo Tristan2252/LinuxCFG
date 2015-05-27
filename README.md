@@ -1,4 +1,8 @@
+
 #******* LinuxCFG *******
+
+# LinuxCFG
+>>>>>>> 0bfd720e1d5ca9cd8332514f0d5dc503f11d3612
 
 This program is designed help execute common tasks used after installing a
 new Debian OS such as Ubuntu.
