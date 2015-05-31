@@ -2,6 +2,7 @@ import subprocess
 import os
 
 Debug = False
+Version = "1.1"
 
 
 class RunCmd(object):
